@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hostdare.github.io/sitemap.xml
